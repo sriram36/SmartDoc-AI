@@ -47,7 +47,7 @@ This means your app **never breaks** - if one AI fails, it tries the next one!
 ### **Quick Setup:**
 ```bash
 # 1. Get the code
-git clone https://github.com/YOUR_USERNAME/SmartDoc-AI.git
+git clone https://github.com/sriram36/SmartDoc-AI.git
 cd SmartDoc-AI
 
 # 2. Set up Python environment  
